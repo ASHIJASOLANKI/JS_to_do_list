@@ -1,0 +1,20 @@
+body{
+    background-color: #eee;
+}
+.col-md-5{
+    background-color: #fff;
+    margin-top: 15rem;
+}
+h1{
+    font-weight: bolder;
+    margin: 1.5rem;
+}
+.form-control{
+    width: 80%;
+    display: inline;
+}
+.btn{
+    display: inline;
+    float: right;
+    margin-right: 1rem;
+}
