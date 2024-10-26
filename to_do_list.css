@@ -12,9 +12,25 @@ h1{
 .form-control{
     width: 80%;
     display: inline;
+    border: 1px solid grey;
 }
 .btn{
     display: inline;
     float: right;
     margin-right: 1rem;
+}
+li{
+    width: 90%;
+    list-style-type: none;
+    font-size: 1.5rem;
+    text-align: center;
+    display: inline;
+    text-wrap: wrap !important;
+    margin: 1rem;
+}
+i{
+    color: #444;
+    float: right;
+    margin-right: 1rem;
+    margin-top: 1rem;
 }
